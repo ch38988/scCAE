@@ -69,7 +69,7 @@ def main():
 
     # Input
     parser.add_argument('--input_file', type=str,
-                        default="/home/che82/project/psychAD/h5ad/bydonor/M10031.csv",
+                        default="input.csv",
                         help='input RNAseq dataset')
     
     args = parser.parse_args()
