@@ -1,2 +1,2 @@
 # scCAE
-CAE on single-cell RNAseq
+Contractive AutoEncoder(CAE) on single-cell RNAseq analysis
